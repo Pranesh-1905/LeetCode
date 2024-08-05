@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Pranesh-1905/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/Pranesh-1905/LeetCode/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranesh-1905/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Pranesh-1905/LeetCode/tree/master/0338-counting-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
