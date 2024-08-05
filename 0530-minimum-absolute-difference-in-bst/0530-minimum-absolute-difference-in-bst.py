@@ -1,8 +1,18 @@
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
 class Solution:
     def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
+        a = []
         def inorder(node):
-            return inorder(node.left) + [node.val] + inorder(node.right) if node else []
+            if node:
+                inorder(node.left)
+                a.append(node.val)
+                inorder(node.right)
         
-        nums = inorder(root)
-        nums.sort()
-        return min(abs(y - x) for x, y in zip(nums, nums[1:])) if len(nums) > 1 else 0
+        inorder(root)
+        a=[i for i in a if i is not None]
+        return min(y-x for x,y in zip(a,a[1:])) if len(a)>1 else 0
