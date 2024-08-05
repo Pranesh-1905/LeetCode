@@ -1,13 +1,17 @@
 class Solution:
     def backspaceCompare(self, s: str, t: str) -> bool:
-        def process_string(s: str) -> list:
-            result = []
-            for char in s:
-                if char!= '#':
-                    result.append(char)
-                elif result:
-                    result.pop()
-            return result
+        a=[]
+        b=[]
+        for i in s:
+            if i != '#':
+                a.append(i)
+            elif a:
+                a.pop()
+        for i in t:
+            if i != '#':
+                b.append(i)
+            elif b:
+                b.pop()
         
-        return process_string(s) == process_string(t)
+        return a==b
             
