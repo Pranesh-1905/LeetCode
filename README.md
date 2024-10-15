@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranesh-1905/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Pranesh-1905/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3195-separate-black-and-white-balls](https://github.com/Pranesh-1905/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Union Find
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Pranesh-1905/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Pranesh-1905/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3195-separate-black-and-white-balls](https://github.com/Pranesh-1905/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Pranesh-1905/LeetCode/tree/master/0055-jump-game) |
+| [3195-separate-black-and-white-balls](https://github.com/Pranesh-1905/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
