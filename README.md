@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pranesh-1905/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Pranesh-1905/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Pranesh-1905/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pranesh-1905/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Pranesh-1905/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Pranesh-1905/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Pranesh-1905/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pranesh-1905/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Pranesh-1905/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pranesh-1905/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/Pranesh-1905/LeetCode/tree/master/0217-contains-duplicate) |
