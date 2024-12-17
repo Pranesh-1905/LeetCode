@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pranesh-1905/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Pranesh-1905/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Pranesh-1905/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/Pranesh-1905/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Pranesh-1905/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Pranesh-1905/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0137-single-number-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Pranesh-1905/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Pranesh-1905/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Pranesh-1905/LeetCode/tree/master/0476-number-complement) |
 ## Binary Search
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranesh-1905/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranesh-1905/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Pranesh-1905/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Pranesh-1905/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Pranesh-1905/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranesh-1905/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Pranesh-1905/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pranesh-1905/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Pranesh-1905/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/Pranesh-1905/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0874-backspace-string-compare](https://github.com/Pranesh-1905/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Pranesh-1905/LeetCode/tree/master/0941-sort-array-by-parity) |
