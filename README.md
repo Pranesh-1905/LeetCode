@@ -177,12 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranesh-1905/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Pranesh-1905/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Pranesh-1905/LeetCode/tree/master/0050-powx-n) |
 | [0650-2-keys-keyboard](https://github.com/Pranesh-1905/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranesh-1905/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Pranesh-1905/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
