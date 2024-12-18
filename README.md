@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Pranesh-1905/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2386-min-max-game](https://github.com/Pranesh-1905/LeetCode/tree/master/2386-min-max-game) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Pranesh-1905/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/Pranesh-1905/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Bit Manipulation
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Pranesh-1905/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2386-min-max-game](https://github.com/Pranesh-1905/LeetCode/tree/master/2386-min-max-game) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Pranesh-1905/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Greedy
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pranesh-1905/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Pranesh-1905/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Data Stream
 |  |
 | ------- |
