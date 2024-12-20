@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranesh-1905/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Pranesh-1905/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Pranesh-1905/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Pranesh-1905/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Pranesh-1905/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
