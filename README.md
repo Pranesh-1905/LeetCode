@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/Pranesh-1905/LeetCode/tree/master/2386-min-max-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Pranesh-1905/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/Pranesh-1905/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3651-transformed-array](https://github.com/Pranesh-1905/LeetCode/tree/master/3651-transformed-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0898-transpose-matrix) |
 | [2386-min-max-game](https://github.com/Pranesh-1905/LeetCode/tree/master/2386-min-max-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Pranesh-1905/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3651-transformed-array](https://github.com/Pranesh-1905/LeetCode/tree/master/3651-transformed-array) |
 ## Greedy
 |  |
 | ------- |
