@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Pranesh-1905/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1833-find-the-highest-altitude](https://github.com/Pranesh-1905/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Pranesh-1905/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2386-min-max-game](https://github.com/Pranesh-1905/LeetCode/tree/master/2386-min-max-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Pranesh-1905/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/Pranesh-1905/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranesh-1905/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Pranesh-1905/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Pranesh-1905/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/Pranesh-1905/LeetCode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/Pranesh-1905/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3195-separate-black-and-white-balls](https://github.com/Pranesh-1905/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -368,4 +370,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranesh-1905/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Pranesh-1905/LeetCode/tree/master/0686-repeated-string-match) |
 | [1524-string-matching-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Pranesh-1905/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
