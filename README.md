@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pranesh-1905/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Pranesh-1905/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Pranesh-1905/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-1905/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranesh-1905/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranesh-1905/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Pranesh-1905/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pranesh-1905/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranesh-1905/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Pranesh-1905/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Pranesh-1905/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0860-design-circular-queue](https://github.com/Pranesh-1905/LeetCode/tree/master/0860-design-circular-queue) |
 ## Simulation
 |  |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Pranesh-1905/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Pranesh-1905/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-1905/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pranesh-1905/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Pranesh-1905/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -408,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Pranesh-1905/LeetCode/tree/master/0146-lru-cache) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Pranesh-1905/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
