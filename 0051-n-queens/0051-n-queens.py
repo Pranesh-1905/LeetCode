@@ -2,10 +2,11 @@ class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
         def check(mat,n,row,col):
             # Check vertical up
-            for i in range(row, -1, -1):
-                if mat[i][col] == 'Q':
+            i, j = row, col
+            while i >= 0 and j >= 0:
+                if mat[i][j] == 'Q':
                     return False
-
+                i -= 1
             # Check left diagonal
             i, j = row, col
             while i >= 0 and j >= 0:
