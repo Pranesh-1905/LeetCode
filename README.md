@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-1905/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Pranesh-1905/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0889-buddy-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/0889-buddy-strings) |
 | [1319-unique-number-of-occurrences](https://github.com/Pranesh-1905/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Pranesh-1905/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Pranesh-1905/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0686-repeated-string-match](https://github.com/Pranesh-1905/LeetCode/tree/master/0686-repeated-string-match) |
 | [0874-backspace-string-compare](https://github.com/Pranesh-1905/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0889-buddy-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/0889-buddy-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranesh-1905/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
