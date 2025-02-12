@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pranesh-1905/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2386-min-max-game](https://github.com/Pranesh-1905/LeetCode/tree/master/2386-min-max-game) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pranesh-1905/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Pranesh-1905/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/Pranesh-1905/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2792-neighboring-bitwise-xor](https://github.com/Pranesh-1905/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Pranesh-1905/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pranesh-1905/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranesh-1905/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Pranesh-1905/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Pranesh-1905/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pranesh-1905/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-1905/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pranesh-1905/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Pranesh-1905/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pranesh-1905/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Pranesh-1905/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Data Stream
 |  |
