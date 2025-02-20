@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Pranesh-1905/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1833-find-the-highest-altitude](https://github.com/Pranesh-1905/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Pranesh-1905/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/Pranesh-1905/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pranesh-1905/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2386-min-max-game](https://github.com/Pranesh-1905/LeetCode/tree/master/2386-min-max-game) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranesh-1905/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Pranesh-1905/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/Pranesh-1905/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pranesh-1905/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pranesh-1905/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Pranesh-1905/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2107-find-unique-binary-string](https://github.com/Pranesh-1905/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pranesh-1905/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pranesh-1905/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Pranesh-1905/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0090-subsets-ii) |
+| [2107-find-unique-binary-string](https://github.com/Pranesh-1905/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pranesh-1905/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Doubly-Linked List
 |  |
