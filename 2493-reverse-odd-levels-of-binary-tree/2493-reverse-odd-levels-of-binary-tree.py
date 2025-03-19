@@ -6,16 +6,27 @@
 #         self.right = right
 class Solution:
     def reverseOddLevels(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        def help(root1,root2,level):
-            if root1 is None or root2 is None:
+        d=defaultdict(list)
+        def dfs(node,lev):
+            if not node :
                 return
-
-            if level%2!=0:
-                root1.val,root2.val=root2.val,root1.val
-
-            help(root1.left,root2.right,level+1)
-            help(root1.right,root2.left,level+1)
-
-        help(root.left,root.right,1)
+            d[lev].append(node)
+            dfs(node.left,lev+1)
+            dfs(node.right,lev+1)
+        dfs(root,0)
+        for i in range(len(d)):
+            if i%2==1:
+                l,r=0,len(d[i])-1
+                while l<r:
+                    d[i][l].val,d[i][r].val=d[i][r].val,d[i][l].val
+                    l+=1
+                    r-=1
+                    
         return root
-            
+
+
+        # for lev in range(len(d)):
+        #     if lev%2==1:
+        #         arr.append(d[lev][::-1])
+        #     else:
+        #         arr.append(d[lev])
