@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Pranesh-1905/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Pranesh-1905/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/Pranesh-1905/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Pranesh-1905/LeetCode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/Pranesh-1905/LeetCode/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0898-transpose-matrix) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Pranesh-1905/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Pranesh-1905/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/Pranesh-1905/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pranesh-1905/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranesh-1905/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
