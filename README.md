@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Pranesh-1905/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Pranesh-1905/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Pranesh-1905/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Pranesh-1905/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Pranesh-1905/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Pranesh-1905/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pranesh-1905/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Pranesh-1905/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Pranesh-1905/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0898-transpose-matrix) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/Pranesh-1905/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pranesh-1905/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
