@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Pranesh-1905/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Pranesh-1905/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranesh-1905/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Pranesh-1905/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranesh-1905/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Pranesh-1905/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Pranesh-1905/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranesh-1905/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Pranesh-1905/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pranesh-1905/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-1905/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranesh-1905/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
