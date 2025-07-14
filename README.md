@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranesh-1905/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Pranesh-1905/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Pranesh-1905/LeetCode/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/Pranesh-1905/LeetCode/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Pranesh-1905/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/0451-sort-characters-by-frequency) |
