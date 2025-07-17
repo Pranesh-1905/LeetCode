@@ -4,20 +4,20 @@ class Solution:
         #add ( only if the open <n
         #add ) only if the close<open
         #valid if opwn ==closed and ==n
-        st=[]
-        res=[]
-        def back(op,cl):
-            if op==cl==n:
-                res.append("".join(st))
+        res = []
+
+        def back(openP, closeP, s):
+            if openP == closeP and openP + closeP == n * 2:
+                res.append(s)
                 return
-            if op<n:
-                st.append("(")
-                back(op+1,cl)
-                st.pop()
-            if cl<op:
-                st.append(")")
-                back(op,cl+1)
-                st.pop()
-        back(0,0)
+            
+            if openP < n:
+                back(openP + 1, closeP, s + "(")
+            
+            if closeP < openP:
+                back(openP, closeP + 1, s + ")")
+
+        back(0, 0, "")
+
         return res
 
