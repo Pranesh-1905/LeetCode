@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pranesh-1905/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranesh-1905/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/Pranesh-1905/LeetCode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/Pranesh-1905/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Pranesh-1905/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Pranesh-1905/LeetCode/tree/master/0792-binary-search) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Pranesh-1905/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Pranesh-1905/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Pranesh-1905/LeetCode/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0898-transpose-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Pranesh-1905/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2662-check-knight-tour-configuration](https://github.com/Pranesh-1905/LeetCode/tree/master/2662-check-knight-tour-configuration) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Pranesh-1905/LeetCode/tree/master/0695-max-area-of-island) |
 | [0975-range-sum-of-bst](https://github.com/Pranesh-1905/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranesh-1905/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Pranesh-1905/LeetCode/tree/master/0695-max-area-of-island) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Pranesh-1905/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Tree
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pranesh-1905/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Pranesh-1905/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Pranesh-1905/LeetCode/tree/master/0695-max-area-of-island) |
 ## Sliding Window
 |  |
 | ------- |
