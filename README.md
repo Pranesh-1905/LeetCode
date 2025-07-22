@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pranesh-1905/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Pranesh-1905/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranesh-1905/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pranesh-1905/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranesh-1905/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Pranesh-1905/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Pranesh-1905/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranesh-1905/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Pranesh-1905/LeetCode/tree/master/0695-max-area-of-island) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pranesh-1905/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Pranesh-1905/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranesh-1905/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Pranesh-1905/LeetCode/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Pranesh-1905/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/Pranesh-1905/LeetCode/tree/master/0686-repeated-string-match) |
 | [0874-backspace-string-compare](https://github.com/Pranesh-1905/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -501,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Pranesh-1905/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Pranesh-1905/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Pranesh-1905/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pranesh-1905/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/Pranesh-1905/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Pranesh-1905/LeetCode/tree/master/0860-design-circular-queue) |
