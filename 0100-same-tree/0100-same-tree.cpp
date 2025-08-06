@@ -11,18 +11,19 @@
  */
 class Solution {
 public:
-    void in(TreeNode*root,vector<int>&v){
-        if(root==nullptr){
-            v.push_back(INT_MIN);
-        return;
+    void in(TreeNode*p,TreeNode*q,bool&f){
+        if (p == nullptr && q == nullptr) return;
+        if (p == nullptr || q == nullptr) {
+            f = false;
+            return;
         }
-        in(root->left,v);
-        v.push_back(root->val);
-        in(root->right,v);
+        in(p->left,q->left,f);
+        if(p->val!=q->val) f=false;
+        in(p->right,q->right,f);
     }
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        if (p==nullptr && q==nullptr) return true;
-        if (p==nullptr || q==nullptr || p->val != q->val) return false;
-        return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
+        bool f=true;
+        in(p,q,f);
+        return f;
     }
 };
