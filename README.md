@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranesh-1905/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranesh-1905/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Pranesh-1905/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Pranesh-1905/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Pranesh-1905/LeetCode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Pranesh-1905/LeetCode/tree/master/0567-permutation-in-string) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/Pranesh-1905/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Pranesh-1905/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-1905/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Pranesh-1905/LeetCode/tree/master/0455-assign-cookies) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Pranesh-1905/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Pranesh-1905/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Pranesh-1905/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Pranesh-1905/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pranesh-1905/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/Pranesh-1905/LeetCode/tree/master/0817-design-hashmap) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Pranesh-1905/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Pranesh-1905/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Pranesh-1905/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-1905/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pranesh-1905/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Pranesh-1905/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pranesh-1905/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Stack
 |  |
