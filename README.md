@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Pranesh-1905/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Pranesh-1905/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Pranesh-1905/LeetCode/tree/master/0792-binary-search) |
+| [1023-time-based-key-value-store](https://github.com/Pranesh-1905/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pranesh-1905/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranesh-1905/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Pranesh-1905/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Pranesh-1905/LeetCode/tree/master/0567-permutation-in-string) |
 | [0817-design-hashmap](https://github.com/Pranesh-1905/LeetCode/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/0889-buddy-strings) |
+| [1023-time-based-key-value-store](https://github.com/Pranesh-1905/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/Pranesh-1905/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Pranesh-1905/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Pranesh-1905/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Pranesh-1905/LeetCode/tree/master/0686-repeated-string-match) |
 | [0874-backspace-string-compare](https://github.com/Pranesh-1905/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/0889-buddy-strings) |
+| [1023-time-based-key-value-store](https://github.com/Pranesh-1905/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1524-string-matching-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Pranesh-1905/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/Pranesh-1905/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Pranesh-1905/LeetCode/tree/master/0860-design-circular-queue) |
+| [1023-time-based-key-value-store](https://github.com/Pranesh-1905/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [3678-design-task-manager](https://github.com/Pranesh-1905/LeetCode/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
