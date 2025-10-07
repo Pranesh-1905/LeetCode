@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Pranesh-1905/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pranesh-1905/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranesh-1905/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Pranesh-1905/LeetCode/tree/master/0567-permutation-in-string) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranesh-1905/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Pranesh-1905/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Pranesh-1905/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pranesh-1905/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Pranesh-1905/LeetCode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Pranesh-1905/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Pranesh-1905/LeetCode/tree/master/0567-permutation-in-string) |
