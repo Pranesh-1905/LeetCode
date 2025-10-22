@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/Pranesh-1905/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3651-transformed-array](https://github.com/Pranesh-1905/LeetCode/tree/master/3651-transformed-array) |
+| [4045-longest-balanced-subarray-i](https://github.com/Pranesh-1905/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Pranesh-1905/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-1905/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pranesh-1905/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [4045-longest-balanced-subarray-i](https://github.com/Pranesh-1905/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3678-design-task-manager](https://github.com/Pranesh-1905/LeetCode/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Pranesh-1905/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [4045-longest-balanced-subarray-i](https://github.com/Pranesh-1905/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Pranesh-1905/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Pranesh-1905/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Pranesh-1905/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pranesh-1905/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [4045-longest-balanced-subarray-i](https://github.com/Pranesh-1905/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -699,4 +703,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/Pranesh-1905/LeetCode/tree/master/3678-design-task-manager) |
+## Segment Tree
+|  |
+| ------- |
+| [4045-longest-balanced-subarray-i](https://github.com/Pranesh-1905/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
