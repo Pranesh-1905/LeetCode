@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/Pranesh-1905/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3651-transformed-array](https://github.com/Pranesh-1905/LeetCode/tree/master/3651-transformed-array) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Pranesh-1905/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3678-design-task-manager](https://github.com/Pranesh-1905/LeetCode/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Pranesh-1905/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Pranesh-1905/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
