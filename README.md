@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Pranesh-1905/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Pranesh-1905/LeetCode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Pranesh-1905/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Pranesh-1905/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Pranesh-1905/LeetCode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Pranesh-1905/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranesh-1905/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pranesh-1905/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Pranesh-1905/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Pranesh-1905/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Pranesh-1905/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Pranesh-1905/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Pranesh-1905/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Pranesh-1905/LeetCode/tree/master/0120-triangle) |
@@ -753,4 +755,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Pranesh-1905/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pranesh-1905/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
