@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Pranesh-1905/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Pranesh-1905/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Pranesh-1905/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pranesh-1905/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0090-subsets-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Pranesh-1905/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Pranesh-1905/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Pranesh-1905/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Pranesh-1905/LeetCode/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0898-transpose-matrix) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Pranesh-1905/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Pranesh-1905/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Pranesh-1905/LeetCode/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/Pranesh-1905/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Pranesh-1905/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Pranesh-1905/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Pranesh-1905/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Pranesh-1905/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Pranesh-1905/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Pranesh-1905/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0090-subsets-ii) |
 | [2107-find-unique-binary-string](https://github.com/Pranesh-1905/LeetCode/tree/master/2107-find-unique-binary-string) |
