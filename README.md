@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Pranesh-1905/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Pranesh-1905/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Pranesh-1905/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2058-concatenation-of-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Pranesh-1905/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pranesh-1905/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Pranesh-1905/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pranesh-1905/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pranesh-1905/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2386-min-max-game](https://github.com/Pranesh-1905/LeetCode/tree/master/2386-min-max-game) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Pranesh-1905/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
