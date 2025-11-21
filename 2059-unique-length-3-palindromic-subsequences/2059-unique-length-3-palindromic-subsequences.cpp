@@ -1,23 +1,22 @@
 class Solution {
 public:
     int countPalindromicSubsequence(string s) {
-        int res=0;
-
-        unordered_set<char> set;
-        for(char c: s){
-            set.insert(c);
+        unordered_set<char> st;
+        for(auto i:s){
+            st.insert(i);
         }
-        for(char c: set){
-            int st=s.find(c);
-            int en=s.rfind(c);
-            if(st<en){
-            unordered_set<int> cha;
-            for(int i =st+1;i<en;i++){
-                cha.insert(s[i]);
+        unordered_set<char> res;
+        int ans=0;
+        for(auto i: st){
+            auto l=s.find(i);
+            auto r=s.rfind(i);
+            for(int i=l+1;i<r;i++){
+                res.insert(s[i]);
             }
-            res+=cha.size();
-            }
+        
+            ans+=res.size();
+            res.clear();
         }
-        return res;
+        return ans;
     }
 };
