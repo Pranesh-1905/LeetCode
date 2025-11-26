@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Pranesh-1905/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Pranesh-1905/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Pranesh-1905/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Pranesh-1905/LeetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Pranesh-1905/LeetCode/tree/master/0994-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Pranesh-1905/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Pranesh-1905/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Tree
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Pranesh-1905/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Pranesh-1905/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Pranesh-1905/LeetCode/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Pranesh-1905/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sliding Window
 |  |
 | ------- |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Pranesh-1905/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Pranesh-1905/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0210-course-schedule-ii) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Pranesh-1905/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Ordered Set
 |  |
 | ------- |
