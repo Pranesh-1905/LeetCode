@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pranesh-1905/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Pranesh-1905/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Pranesh-1905/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3651-transformed-array](https://github.com/Pranesh-1905/LeetCode/tree/master/3651-transformed-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/Pranesh-1905/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Pranesh-1905/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pranesh-1905/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Pranesh-1905/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pranesh-1905/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Pranesh-1905/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranesh-1905/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Pranesh-1905/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pranesh-1905/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Pranesh-1905/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Pranesh-1905/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [4045-longest-balanced-subarray-i](https://github.com/Pranesh-1905/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
