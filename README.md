@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Pranesh-1905/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1925-count-square-sum-triples](https://github.com/Pranesh-1905/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pranesh-1905/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pranesh-1905/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pranesh-1905/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -797,4 +798,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Pranesh-1905/LeetCode/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Pranesh-1905/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/Pranesh-1905/LeetCode/tree/master/1193-monthly-transactions-i) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Pranesh-1905/LeetCode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
