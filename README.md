@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Pranesh-1905/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pranesh-1905/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3583-count-special-triplets](https://github.com/Pranesh-1905/LeetCode/tree/master/3583-count-special-triplets) |
 | [3651-transformed-array](https://github.com/Pranesh-1905/LeetCode/tree/master/3651-transformed-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/Pranesh-1905/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Pranesh-1905/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Pranesh-1905/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3583-count-special-triplets](https://github.com/Pranesh-1905/LeetCode/tree/master/3583-count-special-triplets) |
 | [3678-design-task-manager](https://github.com/Pranesh-1905/LeetCode/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Pranesh-1905/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [4045-longest-balanced-subarray-i](https://github.com/Pranesh-1905/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranesh-1905/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3583-count-special-triplets](https://github.com/Pranesh-1905/LeetCode/tree/master/3583-count-special-triplets) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Pranesh-1905/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
