@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Pranesh-1905/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2058-concatenation-of-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Pranesh-1905/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pranesh-1905/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pranesh-1905/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Pranesh-1905/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1925-count-square-sum-triples](https://github.com/Pranesh-1905/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pranesh-1905/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pranesh-1905/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pranesh-1905/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pranesh-1905/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Pranesh-1905/LeetCode/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/Pranesh-1905/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Pranesh-1905/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pranesh-1905/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Binary Search Tree
 |  |
 | ------- |
