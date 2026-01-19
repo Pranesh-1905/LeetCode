@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Pranesh-1905/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1833-find-the-highest-altitude](https://github.com/Pranesh-1905/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Pranesh-1905/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1901-find-a-peak-element-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Pranesh-1905/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Pranesh-1905/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2058-concatenation-of-array](https://github.com/Pranesh-1905/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Pranesh-1905/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranesh-1905/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Pranesh-1905/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1901-find-a-peak-element-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Pranesh-1905/LeetCode/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Pranesh-1905/LeetCode/tree/master/0994-rotting-oranges) |
+| [1901-find-a-peak-element-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Pranesh-1905/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2662-check-knight-tour-configuration](https://github.com/Pranesh-1905/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Divide and Conquer
