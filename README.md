@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranesh-1905/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Pranesh-1905/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pranesh-1905/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pranesh-1905/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Pranesh-1905/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranesh-1905/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Pranesh-1905/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Pranesh-1905/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Pranesh-1905/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3195-separate-black-and-white-balls](https://github.com/Pranesh-1905/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pranesh-1905/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Pranesh-1905/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranesh-1905/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Pranesh-1905/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pranesh-1905/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Pranesh-1905/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pranesh-1905/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranesh-1905/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Pranesh-1905/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Pranesh-1905/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Pranesh-1905/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pranesh-1905/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Pranesh-1905/LeetCode/tree/master/3195-separate-black-and-white-balls) |
