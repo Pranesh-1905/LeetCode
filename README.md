@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1524-string-matching-in-an-array](https://github.com/Pranesh-1905/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranesh-1905/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranesh-1905/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Pranesh-1905/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pranesh-1905/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pranesh-1905/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Pranesh-1905/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranesh-1905/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranesh-1905/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Pranesh-1905/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Pranesh-1905/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Pranesh-1905/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
