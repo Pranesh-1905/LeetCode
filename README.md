@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Pranesh-1905/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Pranesh-1905/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Pranesh-1905/LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Pranesh-1905/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-1905/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Pranesh-1905/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Pranesh-1905/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranesh-1905/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Pranesh-1905/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Pranesh-1905/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Pranesh-1905/LeetCode/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/Pranesh-1905/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Pranesh-1905/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Pranesh-1905/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Pranesh-1905/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0773-sliding-puzzle](https://github.com/Pranesh-1905/LeetCode/tree/master/0773-sliding-puzzle) |
 | [2107-find-unique-binary-string](https://github.com/Pranesh-1905/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pranesh-1905/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
