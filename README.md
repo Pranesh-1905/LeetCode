@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Pranesh-1905/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pranesh-1905/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Pranesh-1905/LeetCode/tree/master/3583-count-special-triplets) |
+| [3637-trionic-array-i](https://github.com/Pranesh-1905/LeetCode/tree/master/3637-trionic-array-i) |
 | [3651-transformed-array](https://github.com/Pranesh-1905/LeetCode/tree/master/3651-transformed-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/Pranesh-1905/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Pranesh-1905/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
