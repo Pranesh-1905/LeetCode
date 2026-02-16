@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/Pranesh-1905/LeetCode/tree/master/0773-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Pranesh-1905/LeetCode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/Pranesh-1905/LeetCode/tree/master/0817-design-hashmap) |
+| [0853-car-fleet](https://github.com/Pranesh-1905/LeetCode/tree/master/0853-car-fleet) |
 | [0860-design-circular-queue](https://github.com/Pranesh-1905/LeetCode/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/Pranesh-1905/LeetCode/tree/master/0898-transpose-matrix) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pranesh-1905/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Pranesh-1905/LeetCode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Pranesh-1905/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0853-car-fleet](https://github.com/Pranesh-1905/LeetCode/tree/master/0853-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/Pranesh-1905/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranesh-1905/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Pranesh-1905/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Pranesh-1905/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Pranesh-1905/LeetCode/tree/master/0853-car-fleet) |
 | [0874-backspace-string-compare](https://github.com/Pranesh-1905/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranesh-1905/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pranesh-1905/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pranesh-1905/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Pranesh-1905/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Pranesh-1905/LeetCode/tree/master/0853-car-fleet) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pranesh-1905/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranesh-1905/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Merge Sort
