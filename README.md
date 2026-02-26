@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Pranesh-1905/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/Pranesh-1905/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2792-neighboring-bitwise-xor](https://github.com/Pranesh-1905/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pranesh-1905/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pranesh-1905/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Pranesh-1905/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Pranesh-1905/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2662-check-knight-tour-configuration](https://github.com/Pranesh-1905/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pranesh-1905/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pranesh-1905/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranesh-1905/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pranesh-1905/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pranesh-1905/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Pranesh-1905/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1925-count-square-sum-triples](https://github.com/Pranesh-1905/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pranesh-1905/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pranesh-1905/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pranesh-1905/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pranesh-1905/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Pranesh-1905/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
