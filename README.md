@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Pranesh-1905/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1023-time-based-key-value-store](https://github.com/Pranesh-1905/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Pranesh-1905/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Pranesh-1905/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranesh-1905/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Pranesh-1905/LeetCode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Pranesh-1905/LeetCode/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/Pranesh-1905/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0773-sliding-puzzle](https://github.com/Pranesh-1905/LeetCode/tree/master/0773-sliding-puzzle) |
+| [1143-longest-common-subsequence](https://github.com/Pranesh-1905/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Pranesh-1905/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pranesh-1905/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Binary Search Tree
