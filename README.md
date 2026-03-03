@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Pranesh-1905/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pranesh-1905/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Pranesh-1905/LeetCode/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/Pranesh-1905/LeetCode/tree/master/0686-repeated-string-match) |
 | [0874-backspace-string-compare](https://github.com/Pranesh-1905/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/0889-buddy-strings) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Pranesh-1905/LeetCode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Pranesh-1905/LeetCode/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pranesh-1905/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Pranesh-1905/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/Pranesh-1905/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0773-sliding-puzzle](https://github.com/Pranesh-1905/LeetCode/tree/master/0773-sliding-puzzle) |
 | [1143-longest-common-subsequence](https://github.com/Pranesh-1905/LeetCode/tree/master/1143-longest-common-subsequence) |
