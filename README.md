@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pranesh-1905/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/Pranesh-1905/LeetCode/tree/master/1127-last-stone-weight) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Pranesh-1905/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranesh-1905/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/Pranesh-1905/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranesh-1905/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Pranesh-1905/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
